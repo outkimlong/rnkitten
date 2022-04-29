@@ -1,0 +1,2 @@
+Alias name = kittenAliasKey
+password = Ndt&G*5Zz9!b$zE36^smy
